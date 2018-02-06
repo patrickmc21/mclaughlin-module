@@ -1,0 +1,14 @@
+{
+  "name": "@patrickmcl/mclaughlin-module",
+  "version": "1.0.0",
+  "description": "\"A test module\"",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
